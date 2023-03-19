@@ -1,3 +1,6 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/20abdce1e7fe2c1cd61d/maintainability)](https://codeclimate.com/github/dfar-io/csharp-app-settings-poc/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/20abdce1e7fe2c1cd61d/test_coverage)](https://codeclimate.com/github/dfar-io/csharp-app-settings-poc/test_coverage)
+
 # csharp-app-settings-poc
 A POC in C# that works with making App Settings required/optional.
 
